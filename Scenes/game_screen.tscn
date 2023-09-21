@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://lbw7dii1haga"]
+
+[node name="game_screen" type="Node2D"]
+
+[node name="Label" type="Label" parent="."]
+offset_left = 552.0
+offset_top = 296.0
+offset_right = 681.0
+offset_bottom = 322.0
+size_flags_horizontal = 4
+text = "This is the World"
+horizontal_alignment = 1
+vertical_alignment = 1
